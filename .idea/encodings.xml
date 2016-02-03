@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/okhttp/src/main/java/hongsec/library/okhttp/OkHttpUtils.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/okhttp/src/main/java/hongsec/library/okhttp/builder" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/okhttp/src/main/java/hongsec/library/okhttp/callback" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/okhttp/src/main/java/hongsec/library/okhttp/cookie" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/okhttp/src/main/java/hongsec/library/okhttp/https" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/okhttp/src/main/java/hongsec/library/okhttp/request" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/okhttp/src/main/java/hongsec/library/okhttp/utils" charset="x-windows-949" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
